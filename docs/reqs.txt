@@ -1,0 +1,16 @@
+https://swapi.dev
+https://pokeapi.co
+
+Each team has 5 players
+Each player is generated from the respective API's
+
+Player has the following traits:
+    Name, Weight(kg), Heigh(cm)
+
+Team has three roles:
+    Goalie, Defence, Offence
+    
+Each team consists of:
+    1x Goalie <- Tallest
+    2x Defence <- Heaviest
+    2x Offence <- Shortest
