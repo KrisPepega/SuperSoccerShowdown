@@ -7,5 +7,4 @@ Setup (assuming python is already installed):
   5. Install dependencies -> pip install -r requirements.txt
   6. python src/main.py
 
-For swagger docs:
-http://localhost:5000/docs
+When server is running, http://localhost:5000/docs for swagger docs.
